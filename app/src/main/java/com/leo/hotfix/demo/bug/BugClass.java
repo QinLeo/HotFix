@@ -21,6 +21,6 @@ public class BugClass {
         //cd h:\AS_DOCUMENT\Sdk\build-tools\27.0.3
         //dx --dex --output=C:\Users\Leo\Desktop\dex\classes2.dex C:\Users\Leo\Desktop\222
         //路径1：这部分为想要存放dex文件的目录
-        //路径2：这部分为当前有bug的class的目录（需要带上完整包名，去除多余class和package）
+        //路径2：这部分为当前修复了有bug的class的目录（需要带上完整包名，去除多余class和package）
     }
 }
